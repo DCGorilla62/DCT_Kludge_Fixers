@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_7fffffff",
+    "visible_layers": "0015075_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "_autosave-DCT_2_to_1_mini_board.kicad_prl",
+    "filename": "Heater_North_DCT_HSK.kicad_prl",
     "version": 3
   },
   "project": {
