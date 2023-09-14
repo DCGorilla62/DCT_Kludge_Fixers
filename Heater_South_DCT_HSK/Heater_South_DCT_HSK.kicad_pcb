@@ -92,7 +92,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "Fab/DCTHeaters_FeedthroughRev_B/")
+      (outputdirectory "Fab/Rev_B/")
     )
   )
 

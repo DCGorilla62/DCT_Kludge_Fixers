@@ -1,0 +1,24 @@
+Drill report for Heater_South_DCT_HSK.kicad_pcb
+Created on Thu 14 Sep 2023 03:53:39 PM EDT
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Heater_South_DCT_HSK-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (13 holes)
+    T2  0.560mm  0.0220"  (102 holes)
+
+    Total plated holes count 115
+
+
+Drill file 'Heater_South_DCT_HSK-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (2 holes)
+
+    Total unplated holes count 2
