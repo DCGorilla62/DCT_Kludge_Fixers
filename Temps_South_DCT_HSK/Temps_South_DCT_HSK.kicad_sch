@@ -1204,7 +1204,7 @@
     (pin "8" (uuid 2458f503-9edf-487c-a392-aac05f4ebec3))
     (pin "9" (uuid 9058798c-9751-4bb1-b66d-854a0eee095a))
     (instances
-      (project "Temps_South"
+      (project "Temps_North_DCT_HSK"
         (path "/b67bdb50-32e2-49f2-b2ed-35caa82406e6"
           (reference "J3") (unit 1)
         )
@@ -1262,7 +1262,7 @@
     (pin "8" (uuid bf1c19ab-be32-46ca-bb9f-791b0fe33dfe))
     (pin "9" (uuid 579079c8-51be-4458-966c-4ab9ce4aa578))
     (instances
-      (project "Temps_South"
+      (project "Temps_North_DCT_HSK"
         (path "/b67bdb50-32e2-49f2-b2ed-35caa82406e6"
           (reference "J2") (unit 1)
         )
@@ -1320,7 +1320,7 @@
     (pin "8" (uuid 4b6078da-d810-4eb8-8119-7eb2614f3a22))
     (pin "9" (uuid 94a56a66-0681-4711-8c1e-de5fe81910b6))
     (instances
-      (project "Temps_South"
+      (project "Temps_North_DCT_HSK"
         (path "/b67bdb50-32e2-49f2-b2ed-35caa82406e6"
           (reference "J1") (unit 1)
         )
@@ -1378,7 +1378,7 @@
     (pin "8" (uuid 2cf9c523-117f-455b-becf-8c21f5a0c670))
     (pin "9" (uuid bd9edcfa-dcde-471b-8771-b0d79088c59a))
     (instances
-      (project "Temps_South"
+      (project "Temps_North_DCT_HSK"
         (path "/b67bdb50-32e2-49f2-b2ed-35caa82406e6"
           (reference "J4") (unit 1)
         )
